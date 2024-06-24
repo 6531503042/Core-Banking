@@ -23,7 +23,7 @@ This project is a core banking system with a microservices architecture. It incl
 core-banking/ <br>
 ├── core-banking-frontend/ <br>
 ├── core-banking-service/ <br>
-├── data-service/ <br>
+├── data-service/ <br>s
 ├── accounts-service/ <br>
 ├── transactions-service/ <br>
 ├── docker-compose.yml <br>
@@ -32,11 +32,11 @@ core-banking/ <br>
 
 ## Technologies Used
 
-![alt text](docs/arch-1.png)
+<img height="150" src="docs/arch-1.png" /></a>
 
 - Frontend: Next.js
 - Backend: Spring Boot (Java)
-- Data Aggregation: GraphQL
+- Data Aggregation: GraphQLs
 - Databases: MySQL (or any other RDBMS)
 - Containerization: Docker, Docker Compose
 
