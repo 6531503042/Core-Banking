@@ -32,7 +32,7 @@ core-banking/ <br>
 
 ## Technologies Used
 
-<img height="150" src="docs/arch-1.png" /></a>
+<img height="400" src="docs/arch-1.png" /></a>
 
 - Frontend: Next.js
 - Backend: Spring Boot (Java)
