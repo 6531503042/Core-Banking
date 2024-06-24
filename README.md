@@ -32,6 +32,8 @@ core-banking/
 
 ## Technologies Used
 
+![alt text](docs/arch-1.png)
+
 - Frontend: Next.js
 - Backend: Spring Boot (Java)
 - Data Aggregation: GraphQL
