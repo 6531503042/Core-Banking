@@ -20,14 +20,14 @@ This project is a core banking system with a microservices architecture. It incl
 ## Project Structure
 
 \`\`\`
-core-banking/
-├── core-banking-frontend/
-├── core-banking-service/
-├── data-service/
-├── accounts-service/
-├── transactions-service/
-├── docker-compose.yml
-├── README.md
+core-banking/ <br>
+├── core-banking-frontend/ <br>
+├── core-banking-service/ <br>
+├── data-service/ <br>
+├── accounts-service/ <br>
+├── transactions-service/ <br>
+├── docker-compose.yml <br>
+├── README.md <br>
 \`\`\`
 
 ## Technologies Used
