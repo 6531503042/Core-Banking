@@ -2,6 +2,8 @@
 
 This project is a core banking system with a microservices architecture. It includes frontend and backend services, as well as legacy data access services. The frontend is built with Next.js, while the backend services and legacy data access services are built with Spring Boot. The data aggregation service is implemented using GraphQL.
 
+<img height="400" src="docs/core-banking.drawio.png" /></a>
+
 ## Table of Contents
 
 1. [Project Structure](#project-structure)
@@ -32,7 +34,6 @@ core-banking/ <br>
 
 ## Technologies Used
 
-<img height="400" src="docs/arch-1.png" /></a>
 
 - Frontend: Next.js
 - Backend: Spring Boot (Java)
